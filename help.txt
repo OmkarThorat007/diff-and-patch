@@ -1,0 +1,13 @@
+LINKS :
+https://www.youtube.com/watch?v=HgUOWB0StNE
+https://www.tutorialspoint.com/design_and_analysis_of_algorithms/design_and_analysis_of_algorithms_longest_common_subsequence.htm
+https://stackoverflow.com/questions/10446526/get-last-modified-time-of-file-in-linux
+https://linux.die.net/man/2/stat
+https://stackoverflow.com/questions/12991334/members-of-dirent-structure
+
+NAME :
+Naman Modi , Bhaskar Pardeshi, Shivam Marathe
+Naman helped to understand the logic while printing the lines in between two lines of the LCS
+Bhaskar suggested the data structure used in clist.c and also helped to understand the logic while doing patch (for -c o/p of diff)where I had skipped printing of first part of hunk and started printing from the patchfile(containg diff's output)
+Bhaskar suggested use of struct stat and struct dirent for reading directories
+Shivam Marathe helped in using optind in getopt.h
